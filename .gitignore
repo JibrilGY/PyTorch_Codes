@@ -2,3 +2,5 @@
 data
 basic_nn.pth
 lenet.pth
+data_alex
+alexnet.pth
