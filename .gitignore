@@ -1,6 +1,7 @@
 .venv
 data
 basic_nn.pth
-lenet.pth
+model/lenet.pth
 data_alex
-alexnet.pth
+model/alexnet.pth
+data_unet
