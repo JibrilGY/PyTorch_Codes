@@ -1,7 +1,1 @@
 .venv
-data
-basic_nn.pth
-model/lenet.pth
-data_alex
-model/alexnet.pth
-data_unet
